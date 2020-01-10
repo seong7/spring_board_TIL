@@ -16,7 +16,7 @@ spring Board 개발 순서
 
 타입 : springNote (command 방식)
 
-1. sprinBoard webapp 생성
+1. springBoard webapp 생성
 
 2. web.xml 에 filter 추가
 
